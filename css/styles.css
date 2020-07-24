@@ -44,7 +44,7 @@
 #form input{
     background-color: transparent;
     border: white 1px solid;
-    margin: 10px 0 10px 30px;
+    margin: 10px 0 10px 0;
     width: 380px;
     color: white;
 
@@ -52,9 +52,11 @@
 #form textarea{
     background-color: transparent;
     border: white 1px solid;
-    margin-left: 80px;
     color: white;
 }
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: white;
   }
+.displayed{
+    display: none;
+}
