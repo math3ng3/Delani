@@ -3,16 +3,32 @@
     background-position: center;
     background-size: cover;
     height: 400px;
+    margin: auto 0;
 }
 
 .text {
     text-align: center;
-    position: relative;
     color: white;
-    z-index: 1;
-
 }
+
 .text span {
     font-size: 30px;
-    font-weight: 10000;
+}
+
+.middle{
+    background-image: url('../images/s.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    margin: auto 0;
+}
+#services {
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+    line-height: 40px;
+}
+
+.row {
+    padding-left: 78px;
 }
