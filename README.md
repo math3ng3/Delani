@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Delani Studio
-
 This Repository contains code for the Delani aplication.
 ##### By Andrew Mathenge
 ## Description
@@ -27,4 +25,3 @@ Incase of any contributions, feel free to do so by visiting[this link]()
 
 ### License
 Copyright (c) 2020 **math3ng3**
-=======
