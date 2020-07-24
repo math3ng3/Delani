@@ -1,0 +1,16 @@
+#logo {
+    position: relative;
+    
+}
+
+.text {
+    text-align: center;
+    position: relative;
+    color: #000;
+    z-index: 1;
+
+}
+
+.img-fluid {
+    z-index: 2;
+}
