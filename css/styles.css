@@ -1,16 +1,18 @@
-#logo {
-    position: relative;
-    
+.logo {
+    background-image: url('../images/h.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 400px;
 }
 
 .text {
     text-align: center;
     position: relative;
-    color: #000;
+    color: white;
     z-index: 1;
 
 }
-
-.img-fluid {
-    z-index: 2;
+.text span {
+    font-size: 30px;
+    font-weight: 10000;
 }
