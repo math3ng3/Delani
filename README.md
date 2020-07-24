@@ -21,7 +21,7 @@ As is, the project contains no known bugs.
 - Enter your details; You will input your details by typing or by clicking on the provided space in the form, filling out with the appropriate details. 
 - The submit button is the part where your input or your details have been feed to the application and then it display or outputs a thanks you message 
 ## Contribution
-Incase of any contributions, feel free to do so by visiting[this link]()
+Incase of any contributions, feel free to do so by visiting[this link](https://github.com/math3ng3/Delani.git)
 
 ### License
 Copyright (c) 2020 **math3ng3**
