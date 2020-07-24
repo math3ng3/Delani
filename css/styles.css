@@ -32,3 +32,27 @@
 .row {
     padding-left: 78px;
 }
+
+#form {
+    background-image: url(../images/c.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    margin: auto 0;
+
+}
+#form input{
+    background-color: transparent;
+    border: white 1px solid;
+    margin: 10px 0 10px 30px;
+    width: 380px;
+
+}
+#form textarea{
+    background-color: transparent;
+    border: white 1px solid;
+    margin-left: 80px;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+  }
