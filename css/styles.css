@@ -57,3 +57,12 @@
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: white;
   }
+.shown1 {
+    display: none;
+}
+.show2 {
+    display: none;
+}
+.show3 {
+    display: none;
+}
