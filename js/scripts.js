@@ -4,6 +4,3 @@ $("textarea").keypress(function(event){
         alert("Thank you"+" "+name+" "+"for the input")
 	}
 })
-$(".click").on("click", function(){
-    $(this).fadeUp()
-})
