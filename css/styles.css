@@ -66,3 +66,17 @@
 .show3 {
     display: none;
 }
+
+.portfolio {
+    border-top: 1px solid grey;
+    padding-top: 7%;
+    padding-bottom: 5%;
+    background-color: inherit;
+    color: black;
+    font-family: "Poppins";
+    font-weight: bold;
+}
+
+#portfolio {
+    max-width: 80%;
+}
