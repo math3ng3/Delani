@@ -56,8 +56,8 @@
 }
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
     color: white;
-  }
-.shown1 {
+}
+.show1 {
     display: none;
 }
 .show2 {
