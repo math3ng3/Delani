@@ -84,3 +84,17 @@
     padding: 10px;
     font-size: 2.5vh;
 }    
+
+
+
+<form class="row justify-content-center">
+<div class="col-6">
+  <input type="text" placeholder="Name...">
+</div>
+<div class="col-6">
+  <input type="email" placeholder="Email...">
+</div>
+<div class="col-12">
+  <textarea cols="80" rows="7" placeholder="Your message here... (Kindly press Enter key to submit )"></textarea>
+</div>
+</form>
