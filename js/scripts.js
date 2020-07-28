@@ -1,8 +1,6 @@
-$("textarea").keypress(function(event){
-	if(event.which === 13){
-        var name= $("input[type='text']").val();
+$("#mc-embedded-subscribe").click(function(event){
+	    var name= $("input[type='text']").val();
         alert("Thank you"+" "+name+" "+"for the input")
-	}
 })
 
 $(".click1").click(function(){
